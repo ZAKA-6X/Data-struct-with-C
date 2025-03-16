@@ -16,6 +16,11 @@ int main(){
         int x,y;
     } point;
 
+    typedef struct vecteur{
+        point origine;
+        point destinataire;
+    } vecteur;
+
 
 
 }
